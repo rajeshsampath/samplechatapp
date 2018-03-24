@@ -1,0 +1,19 @@
+{
+  "name": "samplechatapp",
+  "version": "1.0.0",
+  "description": "A Sample Chat App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajeshsampath/samplechatapp.git"
+  },
+  "author": "Rajesh Sampath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajeshsampath/samplechatapp/issues"
+  },
+  "homepage": "https://github.com/rajeshsampath/samplechatapp#readme"
+}
