@@ -15,6 +15,7 @@
   "bugs": {
     "url": "https://github.com/rajeshsampath/samplechatapp/issues"
   },
+<<<<<<< HEAD
   "homepage": "https://github.com/rajeshsampath/samplechatapp#readme",
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
@@ -33,4 +34,7 @@
     "passport": "^0.4.0",
     "passport-local": "^1.0.0"
   }
+=======
+  "homepage": "https://github.com/rajeshsampath/samplechatapp#readme"
+>>>>>>> be3bf3ff0b90f6d772743c271748559f69ee35b8
 }
