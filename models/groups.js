@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const groupName = mongoose.Schema({
+const groupNames = mongoose.Schema({
   name: {type: String, default:''},
   country: {type: String, default:''},
   image: {type: String, default: 'default.png'},
